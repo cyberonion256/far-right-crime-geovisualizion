@@ -1,5 +1,5 @@
-# far-right-crime-geovisualizion
-R/shiny-based Geovisualization of Two Datasets on Far-Right Crimes in Germany
+# Visualizing and Exploring Two Datasets on Far-Right Crime in Germany
+## R/shiny-based Geovisualization of Two Datasets on Far-Right Crimes in Germany
 
 Not only after the killing of Walther Lübcke, the terror attack on a synagoge in Halle and the shooting spree in Hanau is far-right, anti-Semitic and anit-refugee crime surging in Germany. NGOs and journalists are cooperating to give a more granular picture of these hate crimes throughout Germany. Based on ~6,900 observation from the "arvig" dataset (2014 - today) and ~16,000 observations  of "tatort rechts" (rechte gewalt, rege) dataset (2000 - today), this R-based ShinyApp visualized individual and county level data. I expanded the aggregation on the county level with an 600-variable panel dataset on demographics, social and economic factors from the German Federal Bureau of Statistics. 
 
