@@ -12,4 +12,4 @@ Not only after the killing of Walther Lübcke, the terror attack on a synagoge i
 
 ## R/ShinyApp & Leaflet
 
-This visualization uses the [Leaflet libary](https://rstudio.github.io/leaflet/) for R including the [Stamen tileset](http://maps.stamen.com/) and is deployed via a R-supplemented [ShinyApp](https://www.shinyapps.io/). To rebuild the server, download the repository, do _not_ change the names or structure of the files and run the ui.R file first locally before editing and possibly deploing it.
+This visualization uses the [Leaflet libary](https://rstudio.github.io/leaflet/) for R including the [Stamen tileset](http://maps.stamen.com/) and is deployed via a R-supplemented [ShinyApp](https://www.shinyapps.io/). To rebuild the server, download the repository, do _not_ change the names or structure of the files and run the ui.R file first locally before editing and possibly deploing it. If you run into trouble with the German "Umlaute" (ä, ö, ü, ß) make sure that you (re-)open the file with UTF-8 encoding. 
