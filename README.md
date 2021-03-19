@@ -7,7 +7,7 @@ Not only after the killing of Walther Lübcke, the terror attack on a synagoge i
 
 1. ["arvig"](https://github.com/davben/arvig/) dataset by davben: Far-Right Crimes in Germany collected from 2014 until today. The dataset is based on information published by the civil society project [Mut Gegen Rechte Gewalt](https://www.mut-gegen-rechte-gewalt.de/).
 2. ["tatort rechts"](https://tatortrechts.de/) (rechte gewalt, rege) dataset by Johannes Filter und Anna Neifer: Far-Right Crimes in a majority of German Bundesländer collected from 2000 until today
-3. Aggregated county level dataset with ~600 variables on demographics, social and economic factors from the [German Federal Bureau of Statistics](https://www.regionalstatistik.de/genesis/online/).
+3. Aggregated county level dataset with ~600 variables on demographics, social and economic factors from the [German Federal Bureau of Statistics](https://www.regionalstatistik.de/genesis/online/), called "completeREx.csv".
 4. Other material: Information on the murders and bombings of the far-right terror group ["Nationalsozialistischer Untergrund"](https://en.wikipedia.org/wiki/National_Socialist_Underground) between 1998 and 2011; shapefiles for the German counties from the [Federal Office for Cartography](https://gdz.bkg.bund.de/index.php/default/open-data.html)
 
 ## R/ShinyApp & Leaflet
